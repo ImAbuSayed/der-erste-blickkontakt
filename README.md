@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-erste-blickkontakt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der erste Blickkontakt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-blickkontakt/) |
+| **Get License** | [Request Licensing for Der erste Blickkontakt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-blickkontakt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4666)
 
 ---
 
