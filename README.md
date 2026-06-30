@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-erste-blickkontakt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Der erste Blickkontakt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-blickkontakt/) |
+| **Get License** | [Get a Licensing Quote for Der erste Blickkontakt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-blickkontakt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, ein Blick durch den Club und die Zeit bleibt stehen, ja
+> Baby, du bist anders, lass die andern weitergehen
+> Deine Augen wie ein Rausch, ich bin längst schon viel zu high
+> Komm, wir tauchen heute ab, scheiß auf alle, nur wir zwei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
